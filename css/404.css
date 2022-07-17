@@ -1,15 +1,15 @@
 
 
-.page_404{ padding:40px 0; background:#fff; font-family: 'Arvo', serif;
+.page_404{ padding:40px 0; background-image: linear-gradient(to bottom right, red, yellow); font-family: 'Arvo', serif;
 }
 
 
 
 .four_zero_four_bg{
  
- background-image: url(https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif);
+ /* background-image: url(https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif);
     height: 400px;
-    background-position: center;
+    background-position: center; */
  }
  
  
